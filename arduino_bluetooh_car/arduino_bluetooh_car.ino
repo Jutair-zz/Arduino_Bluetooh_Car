@@ -1,6 +1,7 @@
 /*Autor: Jutair Rios*/
 /*Projeto de um carrinho controlado por bluetooh utilizando a porta serial*/
 /*A project of a car controlled by bluetooh through serial port*/
+/*Shield Adafruit Shield l293d*/
 
 #include <AFMotor.h>
 AF_DCMotor motor1(1, MOTOR12_64KHZ);
